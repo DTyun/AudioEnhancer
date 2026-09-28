@@ -1,0 +1,4 @@
+PyQt6>=6.4.0
+pystray>=0.19.4
+Pillow>=9.5.0
+pyinstaller>=5.13.0

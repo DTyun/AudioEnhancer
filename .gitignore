@@ -1,0 +1,13 @@
+.venv/
+build*/
+dist*/
+work_*/
+spec_*/
+__pycache__/
+*.spec
+!AudioEnhancer.spec
+*.pyc
+*.pyo
+*.exe
+nul
+premium-audit.json
